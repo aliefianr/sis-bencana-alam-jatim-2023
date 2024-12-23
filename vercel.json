@@ -1,7 +1,7 @@
 {
     "functions": {
-      "sis-bencana-alam-jatim-2023/*.php": {
-        "runtime": "vercel-php@0.5.0"
+        "sis-bencana-alam-jatim-2023/*.php": {
+            "runtime": "vercel-php@0.5.0"
         }
     }
 }
